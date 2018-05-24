@@ -1,14 +1,14 @@
 ---
 name: Appcelerator
 x-slug: appcelerator
-description: 'Axway Appcelerator solutions help you deliver native cross-platform
-  apps, mobilize any data source, and drive success with real-time analytics '
+description: Axway Appcelerator solutions help you deliver native cross-platform apps,
+  mobilize any data source, and drive success with real-time analytics
 image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/59-appcelerator.jpg
 x-kinRank: "8"
 x-alexaRank: "166964"
 tags: Appcelerator
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/appcelerator/master/_listings/appcelerator/apis.md
 specificationVersion: "0.14"
 apis: []
